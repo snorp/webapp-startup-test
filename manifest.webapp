@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "name": "Webapp Startup Performance Test",
+  "url": "http://mozilla.org",
+  "description": "Tests startup performance for web apps on Android",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "James Willcox",
+    "url": "http://mozilla.org"
+  },
+  "default_locale": "en"
+}
